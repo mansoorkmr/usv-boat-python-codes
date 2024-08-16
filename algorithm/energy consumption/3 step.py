@@ -1,4 +1,4 @@
-/ author mansoor.wani.king
+/ author mansoor.wani
 import heapq
 import math
 
